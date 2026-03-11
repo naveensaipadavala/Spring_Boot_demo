@@ -18,7 +18,7 @@ public class SampleGitDemoApplication {
 //<<<<<<< HEAD
 //		return "Hello naveen hello from naveen";
 //=======
-		return "Hello naveen hello from main";
+		return "Hello naveen hello from main  jaaa";
 //>>>>>>> main
 	}
 }
