@@ -15,6 +15,6 @@ public class SampleGitDemoApplication {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "Hello naveen hello";
+		return "Hello naveen hello from main";
 	}
 }
