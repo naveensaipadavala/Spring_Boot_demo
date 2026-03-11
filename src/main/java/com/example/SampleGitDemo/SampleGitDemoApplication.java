@@ -11,6 +11,7 @@ public class SampleGitDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SampleGitDemoApplication.class, args);
+		System.out.print("hello");
 	}
 
 	@GetMapping("/hello")
